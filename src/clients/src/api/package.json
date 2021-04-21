@@ -1,0 +1,12 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "Simple product microservice",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "express": "^4.17.1",
+    "faker": "^5.1.0",
+    "morgan": "^1.10.0"
+  }
+}
